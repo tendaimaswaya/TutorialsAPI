@@ -19,12 +19,12 @@ public class Provider {
         return new Data().login(id,password);
     }
 
-    @RequestMapping("/userId")
+    @RequestMapping("api/userId")
     public User getUserById(@RequestParam(value="v", defaultValue="0") String id) {
         return new Data().getUserById(id);
     }
 
-    @RequestMapping("/userName")
+    @RequestMapping("api/userName")
     public ArrayList<User> getUserByName(@RequestParam(value="v", defaultValue="") String name) {
         return new Data().getUserByName(name);
     }

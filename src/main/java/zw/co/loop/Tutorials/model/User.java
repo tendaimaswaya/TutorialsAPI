@@ -7,6 +7,8 @@ public class User{
         this.userPassword = userPassword;
         this.userToken = userToken;
         }
+    public User(){}
+
     private String userId, userName, userPassword, userToken;
 
     public String getUserId() {
