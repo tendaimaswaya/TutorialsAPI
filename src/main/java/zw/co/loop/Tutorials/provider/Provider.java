@@ -8,12 +8,12 @@ import java.util.ArrayList;
 
 @RestController
 public class Provider {
-    @RequestMapping("/users")
+    @RequestMapping("/api/users")
     public ArrayList<User> users() {
         return new Data().getUsers();
     }
 
-    @RequestMapping("/login")
+    @RequestMapping("/api/login")
     public User getUserById(@RequestParam(value="id", defaultValue="") String id,
                             @RequestParam(value="password", defaultValue="") String password) {
         return new Data().login(id,password);
