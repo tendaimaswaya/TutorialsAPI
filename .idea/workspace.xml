@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc2a54f4-95b9-4884-9f8f-cc2cac2ebfa2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/zw/co/loop/Tutorials/model/Product.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/zw/co/loop/Tutorials/data/Data.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zw/co/loop/Tutorials/data/Data.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/zw/co/loop/Tutorials/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zw/co/loop/Tutorials/model/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/zw/co/loop/Tutorials/provider/Provider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zw/co/loop/Tutorials/provider/Provider.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,7 +31,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1UYoIhwGSNC6fGYRdgEeuwC07VG" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="restartRequiresConfirmation" value="false" />
   </component>
@@ -85,7 +87,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
