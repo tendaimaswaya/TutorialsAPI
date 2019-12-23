@@ -85,6 +85,6 @@ public class Data {
         products.add(new Product("2","iPhone XS", "https://csmobiles.com/19721-large_default/apple-iphone-xs-64gb-gray.jpg","10-12-2019"));
         products.add(new Product("3","Google Pixel 4", "https://icdn2.digitaltrends.com/image/digitaltrends/pixel-4-xl-rear-sticking-out.jpg", "10-12-2019"));
         products.add(new Product("4","Samsung S10", "https://csmobiles.com/27310-large_default/samsung-galaxy-s10-g973f-128gb-dual-sim-red.jpg","10-12-2019"));
-        products.add(new Product("5","Xiaomi MI 9", "https://www.powerplanetonline.com/cdnassets/xiaomi_mi_9_05_negro_ad_l.jpg", "10-12-2019"));
+        products.add(new Product("5","Xiaomi MI 9", "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-9-.jpg", "10-12-2019"));
     }
 }
